@@ -2,7 +2,7 @@
 
 ## Conexto na segurança
 
-Uma etapa muito importante durante um ataque é a coleta de informações. Essa coleta é feita de várias formas. Mas básicamente, consiste em saber as versões dos serviços que estão ativos no alvo, e pesquisar sobre possíveis vulnerabilidades e CVEs públicas para as versões encontradas. Um servoço muito commum nos servidores Linux é o SSH. Porém esse é um serviço que possui algumas vulneravbilidades, principalmente algumas versões específicas. Portanto uma boa prática seria esconder o banner do serviço.
+Uma etapa muito importante durante um ataque é a coleta de informações. Essa coleta é feita de várias formas, mas básicamente, consiste em saber as versões dos serviços que estão ativos no alvo, e pesquisar sobre possíveis vulnerabilidades e CVEs públicas para as versões encontradas. Um serviço muito comum nos servidores Linux é o SSH. Esse permiti acesso remoto ao servidor, e é bem seguro, porém possui algumas vulneravbilidades, principalmente algumas versões específicas. Portanto uma boa prática seria esconder o banner do serviço.
 
 Nesse tutorial vou ensinar a esconeder o banner do ssh. Mas o mesmo conceito pode ser aplicado a outros serviços ativos no Linux.
 
