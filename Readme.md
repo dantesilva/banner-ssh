@@ -49,5 +49,5 @@ Para verificar se consegue fazer o ssh e se a informação do banner sumiu, bast
 
     ssh -vv user@ip
 
-Obs: Pode ser prudente criar uma tarefa na cron para restauração do bakckup do arquivo, caso algo de errado.
+Obs: Pode ser prudente criar uma tarefa na cron para restauração do backup do arquivo, caso algo de errado.
 
