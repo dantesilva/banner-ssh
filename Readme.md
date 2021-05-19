@@ -15,15 +15,19 @@
 
 Pressione 'TAB' para mudar para a coluna ASCII  
 
+<img src="hexedit1.png">
+
 Use CTRL + S para exibir a pesquisa e procure o texto que você deseja ocultar. Por exemplo "OpenSSH_8.0"
+
+<img src="hexedit2.png">
 
 Você verá algo parecido com isso:
 
-<img src="hexedit1.png">
+
 
 Use as teclas para destacar o inicio da sequência, e digite o texto que deseja substituir.
 
-<img src="hexedit2.png">
+
 
 No caso OpenSSH (por exemplo).
 
