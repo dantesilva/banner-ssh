@@ -25,14 +25,17 @@ Use as teclas para destacar o inicio da sequência, e digite o texto que deseja 
 
 <img src="hexedit2.png">
 
+No caso OpenSSH (por exemplo).
+
+<img src="hexedit3.png">
 
 Tenha cuidado para permanecer dentro dos limites do banner original.
 
+<img src="hexedit4.png">
 Depois de alteraado, salve com CTRL +x e Y.
 
-## Atualize o sshd e reinicie o serviço.
 
-    #rm /usr/sbin/sshd
+    # rm /usr/sbin/sshd
     cp -p /tmp/sshd.novo /usr/sbin/sshd
     systemctl restart sshd
 
